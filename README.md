@@ -1,4 +1,20 @@
-# Hey, I'm Ayush Satpute 👋
+<div align="center">
+
+# AYUSH SATPUTE
+
+### Aspiring Software Developer
+
+B.Tech Computer Science Engineering Student
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Developer](https://img.shields.io/badge/Developer-Journey-21262d?style=for-the-badge)
+
+</div>
+
+---
 
 I'm a B.Tech Computer Science Engineering student with a strong interest in technology and application development.
 
