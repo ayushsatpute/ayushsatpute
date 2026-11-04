@@ -4,7 +4,7 @@ I'm a B.Tech Computer Science Engineering student with a strong interest in tech
 
 I enjoy exploring how applications work and how technology can be used to build useful solutions.
 
-Currently, I'm learning Python and Full Stack Development, improving my coding skills, and working towards becoming a Software Developer.
+Currently, I'm starting my journey with Python programming, building my fundamentals, and improving my problem-solving skills step by step.
 
 My goal is to build applications, create my own projects and products, and grow as a developer through continuous learning and practical experience.
 
