@@ -20,3 +20,14 @@ My goal is to build applications, create my own projects and products, and grow 
 ## 🎯 Current Focus
 
 Learning programming step by step, practising with small coding exercises, and developing a strong foundation for software development.
+---
+
+## 🛠️ Tools I'm Using
+
+- Python – My first programming language
+- Visual Studio Code – My code editor
+- GitHub – Managing and sharing my code
+
+## 💻 My Development Journey
+
+Currently exploring programming, learning new technologies, and practising by writing small programs.
